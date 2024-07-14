@@ -36,7 +36,7 @@ The dataset consists of following 9 datasets and the descriptions are below
 
 -  **Shopnest Stores dataset** - Excel Files set - Raw Data Files of the sales data
 -  **Shopnest Stores Dashboard** - PBIX File - Power BI File containing the Dynamic Dashboard
--  **Shopnest Sales Report** - Word File - Word File having insights of the Analysis
+-  **Shopnest Sales Report** - PDF File - Word File having insights of the Analysis
 -  **Shopnest Store Project Details** - Word File - Word File having details of the Excel files
 -  **Shopnest Dashboard Screenshot** - PNG File - Screenshot of the Dashboard for reference
 
